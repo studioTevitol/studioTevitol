@@ -3,20 +3,20 @@ Hi, welcome to **Tevitol Studio**. We are a high-school game development club wa
 Bylaw of Tevitol Studio, clause 12: Club members' names are listed in alphabetical order under all circumstances.
 
 Our club members and Github nicknames:
-Alçin Irmak	Tosun
-Ali "aliali99x" Bayraktaroğlu
-Arda "HestiaN" Özyiğit
-Arda Ekrem "theko1"	Çakır
-Belinay	"b-rs0" Arısaman 
-Can "canbluebird"	Er
-Defne Demirsoy
-Doğukan Durukan 
-Dora "dsaylikoglu" Saylıkoğlu
-Efe	Özgür
-Eymen Yılmazer
-İsmail Cem Çakmak
-Lara İşcen
-Onur Ilgaz Çelebi
-Osman Cem	Ünver
-Yiğit Fırat Altun
-Yusuf Emin "YusufEmin46" Demir
+-Alçin Irmak	Tosun
+-Ali "aliali99x" Bayraktaroğlu
+-Arda "HestiaN" Özyiğit
+-Arda Ekrem "theko1"	Çakır
+-Belinay	"b-rs0" Arısaman 
+-Can "canbluebird"	Er
+-Defne Demirsoy
+-Doğukan Durukan 
+-Dora "dsaylikoglu" Saylıkoğlu
+-Efe	Özgür
+-Eymen Yılmazer
+-İsmail Cem Çakmak
+-Lara İşcen
+-Onur Ilgaz Çelebi
+-Osman Cem	Ünver
+-Yiğit Fırat Altun
+-Yusuf Emin "YusufEmin46" Demir
