@@ -7,13 +7,11 @@ Our itch.io page: studiotevitol.itch.io
 Bylaw of Tevitol Studio, clause 12: Club members' names are listed in alphabetical order under all circumstances.
 Our club members and their Github nicknames:
 
-- Alçin Irmak	Tosun
 - Ali "aliali99x" Bayraktaroğlu
 - Arda "HestiaN" Özyiğit
 - Arda Ekrem "theko1"	Çakır
 - Belinay	"b-rs0" Arısaman 
 - Can "canbluebird" Er
-- Defne Demirsoy
 - Deniz Utku "TheWashingman" Temel
 - Dora "dsaylikoglu" Saylıkoğlu
 - Efe "OzgurEfe25"	Özgür
