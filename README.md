@@ -19,6 +19,4 @@ Our club members and their Github nicknames:
 - Yusuf Emin "YusufEmin46" Demir
 
 For Contact: tevitolstudyo@gmail.com
-- Arda Ekrem Çakır: aecakir@tevitol.k12.tr
-- Can Er: cer@tevitol.k12.tr
-- Efe Özgür: eozgur@tevitol.k12.tr
+
