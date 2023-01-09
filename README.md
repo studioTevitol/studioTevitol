@@ -8,7 +8,6 @@ Our itch.io page: studiotevitol.itch.io
 Bylaw of Tevitol Studio, clause 12: Club members' names are listed in alphabetical order under all circumstances.
 Our club members and their Github nicknames:
 
-- Ali **["aliali99x"](https://www.github.com/aliali99x)** Bayraktaroğlu
 - Arda **["Birahe"](https://www.github.com/birahe)** Özyiğit
 - Arda Ekrem **["theko1"](https://www.github.com/theko1)**	Çakır
 - Belinay	**["b-rs0"](https://www.github.com/b-rs0)** Arısaman 
@@ -16,7 +15,10 @@ Our club members and their Github nicknames:
 - Deniz Utku **["TheWashingman"](https://www.github.com/thewashingman)** Temel
 - Dora **["dsaylikoglu"](https://www.github.com/dsaylikoglu)** Saylıkoğlu
 - Efe **["OzgurEfe25"](https://www.github.com/OzgurEfe25)**	Özgür
-- Eymen **["eymenylmzr"](https://www.github.com/eymenylmzr)** Yılmazer
+- Emre Gürcan
+- Göktuğ Köken
+- Mehmet Arda **["lebekele"](https://github.com/lebekele)** Uzunlar
+- Umut **["UmutBideci"](https://github.com/UmutBideci)** Bideci 
 - Yusuf Emin **["YusufEmin46"](https://www.github.com/yusufemin46)** Demir
 
 For Contact: tevitolstudyo@gmail.com
