@@ -1,4 +1,4 @@
-Hi, welcome to **Tevitol Studio**. We are a high-school game development club was founded at *TEV İnanç Türkeş High-School* in September 2021. We hold studio meetings once a week between 14:00 and 16:00 on fridays.
+Hi, welcome to **Tevitol Studio**. We are a high-school game development club was founded at *TEV İnanç Türkeş High-School* in September 2021. 
 
 Our itch.io page: studiotevitol.itch.io
 - [Twitter: twitter.com/studioTevitol](https://twitter.com/studioTevitol)
@@ -8,18 +8,17 @@ Our itch.io page: studiotevitol.itch.io
 Bylaw of Tevitol Studio, clause 12: Club members' names are listed in alphabetical order under all circumstances.
 Our club members and their Github nicknames:
 
-- Arda **["Birahe"](https://www.github.com/birahe)** Özyiğit
 - Arda Ekrem **["theko1"](https://www.github.com/theko1)**	Çakır
-- Belinay	**["b-rs0"](https://www.github.com/b-rs0)** Arısaman 
 - Can **["canbluebird"](https://www.github.com/canbluebird)** Er
-- Deniz Utku **["TheWashingman"](https://www.github.com/thewashingman)** Temel
-- Dora **["dsaylikoglu"](https://www.github.com/dsaylikoglu)** Saylıkoğlu
+- Celal Kerem **["endernat0r"](https://www.github.com/endernat0r)** Kuruğlu
 - Efe **["OzgurEfe25"](https://www.github.com/OzgurEfe25)**	Özgür
-- Emre Gürcan
-- Göktuğ Köken
-- Mehmet Arda **["lebekele"](https://github.com/lebekele)** Uzunlar
-- Umut **["UmutBideci"](https://github.com/UmutBideci)** Bideci 
-- Yusuf Emin **["YusufEmin46"](https://www.github.com/yusufemin46)** Demir
-
+- Kızıl Kaplan **["ıtsCactZ"](https://www.github.com/ıtsCactZ)** Gürses
+- Kuzey **["N0-D3V"](https://www.github.com/N0-D3V)** Çalışkan 
+- Mehmet Arda **["-"](https://www.github.com/-)** Kaya
+- Mehmet Tuna **["-"](https://www.github.com/-)** Akgüneş 
+- Sabahattin **["Sabest4321"](https://www.github.com/Sabest4321)** Mestan
+- Serdar Burak **["studiosbk"](https://www.github.com/studiosbk)** Karagöz
+- Teoman Ata **["tte0"](https://www.github.com/tte0)** Korkmaz
+- Yağız **["YaggaXoX"](https://www.github.com/YaggaXoX)** Saraç
 For Contact: tevitolstudyo@gmail.com
 
