@@ -9,7 +9,7 @@ Bylaw of Tevitol Studio, clause 12: Club members' names are listed in alphabetic
 Our club members and their Github nicknames:
 
 - Arda Ekrem **["theko1"](https://www.github.com/theko1)**	Çakır
-- Can **["canbluebird"](https://www.github.com/canbluebird)** Er
+- Can **["BlueEagle2006"](https://www.github.com/BlueEagle2006)** Er
 - Celal Kerem **["endernat0r"](https://www.github.com/endernat0r)** Kuruğlu
 - Efe **["OzgurEfe25"](https://www.github.com/OzgurEfe25)**	Özgür
 - Kızıl Kaplan **["ıtsCactZ"](https://www.github.com/ıtsCactZ)** Gürses
