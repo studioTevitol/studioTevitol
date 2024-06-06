@@ -20,5 +20,6 @@ Our club members and their Github nicknames:
 - Serdar Burak **["studiosbk"](https://www.github.com/studiosbk)** Karagöz
 - Teoman Ata **["tte0"](https://www.github.com/tte0)** Korkmaz
 - Yağız **["YaggaXoX"](https://www.github.com/YaggaXoX)** Saraç
-For Contact: tevitolstudyo@gmail.com
+
+- For Contact: tevitolstudyo@gmail.com
 
